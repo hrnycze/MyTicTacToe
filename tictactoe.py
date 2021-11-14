@@ -104,6 +104,7 @@ def new_game():
 # Desktop window
 window = tk.Tk()
 window.title("Tic - Tac - Toe")
+# window.iconbitmap('myicon.ico')
 
 # Menu
 lbl_title = tk.Label(master=window,
